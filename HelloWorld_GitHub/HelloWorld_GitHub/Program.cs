@@ -10,7 +10,7 @@ namespace HelloWorld_GitHub
         static void Main(string[] args)
         {
 // hi 1 2
-            Console.Out.WriteLine("Benson is stupid and he scretches his balls at home all day long");
+            Console.Out.WriteLine("Benson is stupid and he scretches his balls at home all day long. Testing again");
         }
     }
 }
