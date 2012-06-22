@@ -1,0 +1,5 @@
+H:\Dev\AirportShuttle\AirportShuttle\HelloWorld_GitHub\HelloWorld_GitHub\bin\Debug\HelloWorld_GitHub.exe
+H:\Dev\AirportShuttle\AirportShuttle\HelloWorld_GitHub\HelloWorld_GitHub\bin\Debug\HelloWorld_GitHub.pdb
+H:\Dev\AirportShuttle\AirportShuttle\HelloWorld_GitHub\HelloWorld_GitHub\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Dev\AirportShuttle\AirportShuttle\HelloWorld_GitHub\HelloWorld_GitHub\obj\x86\Debug\HelloWorld_GitHub.exe
+H:\Dev\AirportShuttle\AirportShuttle\HelloWorld_GitHub\HelloWorld_GitHub\obj\x86\Debug\HelloWorld_GitHub.pdb
